@@ -2,3 +2,4 @@ fastapi
 pydantic
 sqlite3
 datetime
+pytest
