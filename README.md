@@ -1,6 +1,7 @@
 # vertexcover_assignment
 
 pip install -r requirements.txt
+
 uvicorn main:app --reload
 
 run unit test
