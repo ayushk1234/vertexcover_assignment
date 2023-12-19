@@ -1,0 +1,4 @@
+Tradeoffs and Scalability Challenges:
+Database Scalability:As the number of coupons, users, and usage logs grows, an SQLite database may become a bottleneck.
+Optimizing Coupon Verification: The coupon code verification logic may become a performance bottleneck as the system scales.
+Security and Rate Limiting: Without proper security measures and rate limiting, the system may be vulnerable to abuse or malicious attacks.
