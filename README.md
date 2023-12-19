@@ -3,6 +3,8 @@
 pip install -r requirements.txt
 uvicorn main:app --reload
 
+run unit test
+test_coupon_service.py
 
 Coupon Service API Testing
 
